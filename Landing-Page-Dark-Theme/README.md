@@ -31,4 +31,4 @@ skills by using CSS layout tools (Grid or Flexbox).
 - Click on `copy path` and paste it in your browser.
 - 
 ##Created by
-Faizan 
+Faizan Find Live https://64cfb62a03c12f527221dfee--spiffy-snickerdoodle-b0bc32.netlify.app/
